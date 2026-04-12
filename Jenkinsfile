@@ -3,7 +3,7 @@ agent any
 
 
 environment {
-    IMAGE_NAME = "laxmanraju4144/shoppingassistantservice:${GIT_COMMIT}"
+    IMAGE_NAME = "laxmanraju/shoppingassistantservice:${GIT_COMMIT}"
 }
 
 stages {
